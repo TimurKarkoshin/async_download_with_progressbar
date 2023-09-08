@@ -21,3 +21,6 @@
 ![Снимок экрана (277)](https://github.com/TimurKarkoshin/async_download_with_progressbar/assets/144448914/72954e0a-31dc-46a0-a0b1-ec4aab6ac737)
 ===>
 ![Снимок экрана (278)](https://github.com/TimurKarkoshin/async_download_with_progressbar/assets/144448914/c8cfa2ea-9ea2-484d-8d04-de995e61343e)
+
+Так же для теста прикрепляю ссылку на тестовую загрузку файлов:
+https://testfiledownload.com/
